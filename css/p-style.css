@@ -1,0 +1,70 @@
+p {
+    font-size: 60px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p #black {
+    color: black;
+}
+
+p #teal {
+    color: teal;
+}
+
+p #blue {
+    color: blue;
+}
+
+p #navy {
+    color: navy;
+}
+
+p #lime {
+    color: lime;
+}
+
+p #white {
+    color: white;
+}
+
+p #purple {
+    color: purple;
+}
+
+p #yellow {
+    color: yellow;
+}
+
+p #olive {
+    color: olive;
+}
+
+p #red {
+    color: red;
+}
+
+p #marron {
+    color: maroon;
+}
+
+p #gray {
+    color: gray;
+}
+
+p #fuchsia {
+    color: fuchsia;
+}
+
+p #green {
+    color: green;
+}
+
+p #aqua {
+    color: aqua;
+}
+
+p #silver {
+    color: silver;
+}

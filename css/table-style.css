@@ -1,0 +1,68 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: left;
+    width: 60%;
+    height: 200px;
+    font-size: 30px;
+}
+
+table caption {
+    border: 1px solid;
+    text-align: center;
+    background-color: green;
+    height: 70px;
+}
+
+table .xblack {
+    background-color: black;
+}
+
+table .xteal {
+    background-color: teal;
+}
+
+table .xblue {
+    background-color: blue;
+}
+
+table .xnavy {
+    background-color: navy;
+}
+
+table .xlime {
+    background-color: lime;
+}
+
+table .xwhite {
+    background-color: white;
+}
+
+table .xpurple {
+    background-color: purple;
+}
+
+table .xyellow {
+    background-color: yellow;
+}
+
+table .xolive {
+    background-color: olive;
+}
+
+table .xred {
+    background-color: red;
+}
+
+table .xgray {
+    background-color: gray;
+}
+
+table .xfuchsia {
+    background-color: fuchsia;
+}
+
+table .xgreen {
+    background-color: green;
+}

@@ -1,0 +1,7 @@
+@import url(h1-style.css);
+@import url(table-style.css);
+@import url(p-style.css);
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/textura-madera-clara-textura-madera-diseno-decoracion_256259-327.jpg?w=740);
+    text-align: center;
+}
